@@ -1,4 +1,4 @@
-![Header](logo.png)
+![Header](logo.jpg)
 
 # Latar Belakang
 
