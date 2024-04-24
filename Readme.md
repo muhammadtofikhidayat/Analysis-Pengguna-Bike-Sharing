@@ -14,7 +14,7 @@ saya sebagai seorang data analyst, akan menjawab pertanyaan berikut :
 
 <b>Bagaimana cara meningkatkan profit perusahaan dan meningkatkan efektifitas lokasi penjemputan yang akurat ?</b>
 
-## Dataset
+# Dataset
 
 Untuk menjawab peryataan permasalah diatas, kami akan menganalisa data NYCTLCTripRecord yang dikumpulkan oleh perusahan. Data dapat diakses <a href='https://drive.google.com/drive/folders/1NYHIL-RgVPW-HONz4pdzlcbIChF-c37N'>disini.</a>
 
@@ -71,15 +71,13 @@ Data set ini berisikan informasi terkait trip perjalanan dari setiap taksi yang 
   1 = Tipe penumpang secara langsung dijalan(street-hail) seperti melambaikan tangan dijalan tampa memesan melalui kantor pusat.
   2 = Tipe penumpang terlebih dahulu memesan melalui kantor pusat (dispatch) dan kantor pusat akan mencarikan taxi terdekat.
 
-berikut 5 data baris pertama sebagai berikut :
-
-## Installation
+# Installation
 
 To get this project, you can clone it by running the following code:
 
     https://github.com/muhammadtofikhidayat/CapstoneProject2Pwd
 
-## Project Organization
+# Project Organization
 
 The directory structure of Tokoh Berkah Jaya project looks like this:
 
@@ -90,6 +88,10 @@ The directory structure of Tokoh Berkah Jaya project looks like this:
       ├── src
           └── script.ipynb
 
-## Contribute
+# Contribute
 
-If you'd like to contribute to Toko Berkah Jaya Apps, check out https://github.com/muhammadtofikhidayat/CapstoneProject2Pwd, or feel free to contact me.
+Jika anda ingin berkontribusi lebih lanjut bisa langsung ke github saya sebagai berikut https://github.com/muhammadtofikhidayat/CapstoneProject2Pwd, atau bisa langsung menghubungi kontak saya.
+
+# Tablue
+
+Untuk visualisasi dengan tablue bisa dilihat pada link berikut https://public.tableau.com/app/profile/muhammad.tofik.hidayat/viz/CapstoneProjectPwd2/Dashboard1
