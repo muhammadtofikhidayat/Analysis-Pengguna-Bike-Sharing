@@ -1,6 +1,6 @@
 ![Header](logo.png)
 
-## Latar Belakang
+# Latar Belakang
 
 New York Taxi and Limousine Commision(TLC) adalah badan pemerintahan yang bertanggung jawab atas regulasi dan pengawasan layanan taksi dan limusin di New York City . TLC didirikan pada tahun 1971 sebagai respon terhadap perubahan dalam industri taksi dan limusin di kota New York City tersebut.
 
@@ -77,7 +77,7 @@ berikut 5 data baris pertama sebagai berikut :
 
 To get this project, you can clone it by running the following code:
 
-    https://github.com/muhammadtofikhidayat/Toko-Berkah-Jaya
+    https://github.com/muhammadtofikhidayat/CapstoneProject2Pwd
 
 ## Project Organization
 
@@ -92,4 +92,4 @@ The directory structure of Tokoh Berkah Jaya project looks like this:
 
 ## Contribute
 
-If you'd like to contribute to Toko Berkah Jaya Apps, check out https://github.com/muhammadtofikhidayat/Toko-Berkah-Jaya, or feel free to contact me.
+If you'd like to contribute to Toko Berkah Jaya Apps, check out https://github.com/muhammadtofikhidayat/CapstoneProject2Pwd, or feel free to contact me.
